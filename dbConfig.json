@@ -1,0 +1,7 @@
+{
+	"db" : "testApp",
+	"host" : "localhost",
+	"user" : "postgres",
+	"password" : "postpass",
+	"adminPassword" : "adminPassword123"
+}
